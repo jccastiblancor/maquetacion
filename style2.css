@@ -1,0 +1,37 @@
+.banner {
+  background-color: brown;
+  color: white;
+  height: 100%;
+  min-height: 40px;
+}
+
+.top {
+  background-color: orange;
+}
+
+.left {
+  background-color: coral;
+}
+
+.content {
+  background-color: gray;
+  height: 100%;
+  min-height: 100px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.photo-pink {
+  background-color: pink;
+}
+
+.photo-blue {
+  background-color: blue;
+}
+
+.footer {
+  background-color: brown;
+  color: white;
+}
